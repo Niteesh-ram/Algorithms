@@ -29,7 +29,7 @@ class Bubble_Sort {
 
     public static void main(String args[]) {
 
-        int[] data = { -2, 45, 0, 11, -9 };
+        int[] data = { -444,-22,0,-1,-7 };
 
         // call method using class name
         Bubble_Sort.bubbleSort(data);
